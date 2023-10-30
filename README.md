@@ -1,4 +1,4 @@
-# Vithoulkas-QA-POC
+# UVANews-Chatbot
 
 Full stack web application for a document retrieval augemented chatbot. I didn't want to spend money on a cloud service provider so I am running the LLM on UVA's GPU server, so in order to run this repository you unfortunately need to be a UVA computing student. The server code can be found here: https://github.com/puschb/UVANews-Chatbot-Server. Since this chatbot is augmented using UVANews I also had to create an unnoficial api for UVANews, which I published as a pypi package and can also be found here: https://github.com/puschb/UVA-news-api-library.
 
